@@ -62,7 +62,7 @@
   <h2>How to Run</h2>
   <h3>Using the Executable (.exe):</h3>
   <ol>
-    <li>Double-click <code>apple_health_analyzer.exe</code>.</li>
+    <li>Double-click <code>AppleHealthSleepHRV.exe</code>.</li>
     <li>When prompted, provide the path to your <code>export.xml</code>.</li>
     <li>Follow the on‑screen prompts and wait for the analysis to complete.</li>
   </ol>
